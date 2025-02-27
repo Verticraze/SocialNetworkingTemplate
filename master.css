@@ -7,7 +7,8 @@
 }
 body
 {
-    background-color: #145;
+    background:linear-gradient(coral,lightblue);
+    min-height: 200vh;
 }
 
 .header1
@@ -55,7 +56,8 @@ body
 
 #block
 {
-    background: #7d818c;
+    background: lightblue;
+    opacity: 0.7;
     max-width: fit-content;
     min-height: fit-content;
     border-radius: 12px 12px;
@@ -69,7 +71,7 @@ body
 
 #sidenav a:hover
 {
-    background-color: #145;
+    background-color: lightcoral;
     border-radius: 3px 3px;
 }
 
